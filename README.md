@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Pratik Shrestha, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/630/630696.svg" width="13"/> <b>Bhaktapur, Nepal</b>. </p>
+<p>Welcome to my page! </br> I'm Pratik Shrestha, Fullstack developer from <img src="https://i.pinimg.com/originals/a3/5c/c0/a35cc08f30e83b005b945b1f83f0ea37.gif" width="13"/> <b>Bhaktapur, Nepal</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
