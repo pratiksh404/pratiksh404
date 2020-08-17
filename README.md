@@ -2,7 +2,10 @@
 
 ![https://github.com/pratiksh404](https://komarev.com/ghpvc/?username=pratik404) 
 
-<p>Welcome to my page! </br> I'm Pratik Shrestha, Fullstack developer from <img src="https://i.pinimg.com/originals/a3/5c/c0/a35cc08f30e83b005b945b1f83f0ea37.gif" width="13"/> <b>Bhaktapur, Nepal</b>. </p>
+<p>Welcome to my page! </br> I'm [Pratik Shrestha](http://pratiksh404.github.io/), Fullstack developer from <img src="https://i.pinimg.com/originals/a3/5c/c0/a35cc08f30e83b005b945b1f83f0ea37.gif" width="13"/> <b>Bhaktapur, Nepal</b>. </p>
+<p>
+	Visit my [portfolio website.](http://pratiksh404.github.io/)
+	</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
