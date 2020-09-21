@@ -73,7 +73,7 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_landing_page"/></td>
     </tr>
 	          <tr>
-	    <td><a href="https://github.com/pratiksh404/doctype_website"><b>Doctype Admin Landing</b></a></td>
+	    <td><a href="https://github.com/pratiksh404/doctype_website"><b>Doctype Admin Website</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/doctype_website"/></td>
         <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/doctype_website/downloads"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_website"/></td>
