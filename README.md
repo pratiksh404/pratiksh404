@@ -57,25 +57,7 @@
         <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/blog/downloads"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_admin_blog"/></td>
     </tr>
-        <tr>
-	    <td><a href="https://github.com/pratiksh404/doctype_admin_settings"><b>Doctype Admin Setting</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/doctype_admin_settings"/></td>
-        <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/settings/downloads"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_admin_settings"/></td>
-    </tr>
-        <tr>
-	    <td><a href="https://github.com/pratiksh404/doctype_landing_page"><b>Doctype Admin Landing</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/doctype_landing_page"/></td>
-        <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/landing_page/downloads"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_landing_page"/></td>
-    </tr>
-	          <tr>
-	    <td><a href="https://github.com/pratiksh404/doctype_website"><b>Doctype Admin Website</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/doctype_website"/></td>
-        <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/doctype_website/downloads"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_website"/></td>
-    </tr>
-        </tr>
+
         <tr>
 	    <td><a href="https://github.com/pratiksh404/laravel-thumbnails"><b>Laravel Thumbnail</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/laravel-thumbnails"/></td>
