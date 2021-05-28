@@ -57,14 +57,12 @@
         <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/blog/downloads"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_admin_blog"/></td>
     </tr>
-
-        <tr>
+     <tr>
 	<td><a href="https://github.com/pratiksh404/laravel-thumbnails"><b>Laravel Thumbnail</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/laravel-thumbnails"/></td>
         <td><img alt="Downloads" src="https://poser.pugx.org/drh2so4/thumbnail/downloads"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/laravel-thumbnails"/></td>
-    </tr>
-	 
+    </tr>	 
   </tbody>
 </table>
 <br>
