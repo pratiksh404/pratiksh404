@@ -30,6 +30,12 @@
     </tr>
   </thead>
   <tbody>
+	     <tr>
+	<td><a href="https://github.com/pratiksh404/adminetic"><b>Adminetic Admin Panel</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/adminetic"/></td>
+        <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/pratiksh/adminetic.svg?style=flat-square"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/adminetic"/></td>
+    </tr>
     <tr>
 	    <td><a href="https://github.com/pratiksh404/doctype_admin"><b>Doctype Admin Panel</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/doctype_admin"/></td>
