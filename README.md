@@ -1,12 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-![https://github.com/pratiksh404](https://komarev.com/ghpvc/?username=pratik404) 
-
-<p>Welcome to my page! </br> I'm <a href="http://pratiksh404.github.io/">Pratik Shrestha</a>, Fullstack developer from <img src="https://i.pinimg.com/originals/a3/5c/c0/a35cc08f30e83b005b945b1f83f0ea37.gif" width="13"/> <b>Bhaktapur, Nepal</b>. </p>
-<p>
-	Visit my <a href="http://pratiksh404.github.io/">portfolio website.</a>
-	</p>
-<h3>Things I code with</h3>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-8DD6F9?style=flat-square&logo=laravel&logoColor=white" /> 
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-F9A03C?style=flat-square&logo=vue.js&logoColor=white" />
@@ -23,7 +16,13 @@
 <h1 align="center">Hi 👋, I'm Pratik Shrestha</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksh404&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksh404" /> </p>
+<p>Welcome to my page! </br> I'm <a href="http://pratiksh404.github.io/">Pratik Shrestha</a>, Fullstack developer from <img src="https://i.pinimg.com/originals/a3/5c/c0/a35cc08f30e83b005b945b1f83f0ea37.gif" width="13"/> <b>Bhaktapur, Nepal</b>. </p>
+<p>
+	Visit my <a href="http://pratiksh404.github.io/">portfolio website.</a>
+	</p>
+<h3>Things I code with</h3>
+
+<p align="left"> ![https://github.com/pratiksh404](https://komarev.com/ghpvc/?username=pratik404) </p>
 
 - 🔭 I’m currently working on [adminetic admin panel](https://github.com/pratiksh404/adminetic)
 
