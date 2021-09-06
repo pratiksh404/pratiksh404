@@ -110,7 +110,4 @@
   </tbody>
 </table>
 <br>
-[![Adminetic Admin Panel](https://github-readme-stats.vercel.app/api/pin/?username=pratiksh404&repo=adminetic)](https://github.com/pratiksh404/adminetic)
-[![Laravel Thumbnail](https://github-readme-stats.vercel.app/api/pin/?username=pratiksh404&repo=laravel-thumbnails)](https://github.com/pratiksh404/laravel-thumbnails)
-
 
