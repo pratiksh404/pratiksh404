@@ -1,4 +1,4 @@
-<img src="https://photos.app.goo.gl/UT8ayvoYDaLY4V4K7"/>
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLXL3asuUo8u_5JoEQNYABKLVr8pqyL8N7qpI_uHztVaFlg7zjS9rTRBjU-hNohVjQwimSYAJZYoDfabigaNpCeDG9gYLEn9fHDXZVpqppAtp3YMsBTdeIPbmUOhHX09ZlYC0aYQKnH5ErpudG0s9J6A=w1280-h719-no?authuser=0"/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <h1 align="center">Hi 👋, I'm Pratik Shrestha</h1>
