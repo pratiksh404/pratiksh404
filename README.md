@@ -68,14 +68,7 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/adminetic"/></td>
         <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/pratiksh/adminetic.svg?style=flat-square"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/adminetic"/></td>
-    </tr>
-    <tr>
-	    <td><a href="https://github.com/pratiksh404/doctype_admin"><b>Doctype Admin Panel</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/doctype_admin"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pratiksh404/doctype_admin"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/doctype_admin"/></td>
-    </tr>
-	 
+	     </tr>	 
   </tbody>
 </table>
 <br>
@@ -99,7 +92,7 @@
     <tr>
 	<td><a href="https://github.com/pratiksh404/nepalidate"><b>Nepali Date</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/pratiksh404/nepalidate"/></td>
-        <td><img alt="Downloads" src="https://poser.pugx.org/doctype_admin/blog/nepalidate"/></td>
+        <td><img alt="Downloads" src="https://img.shields.io/packagist/dt/pratiksh/nepalidate.svg?style=flat-square"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/pratiksh404/nepalidate"/></td>
     </tr>
      <tr>
